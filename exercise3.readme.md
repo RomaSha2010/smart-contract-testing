@@ -1,3 +1,8 @@
+1. [Subtask 3.1](#subtask-31)
+2. [ Subtask 3.2](#-subtask-32)
+3. [ Subtask 3.2](#-subtask-32-1)
+4. [ Subtask 3.3](#-subtask-33)
+5. [ Subtask 3.3.1](#-subtask-331)
 
 
 # Subtask 3.1
